@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/kylelv2000/count.svg" />
 </p>
 
-My name is Kunhang Lv, and I'm a student at Peking University studying Computer Science. I'm passionate about doing sports, and I love coding and exploring new technologies.
+My name is Kunhang Lv(吕昆航), and I'm a student at Peking University studying Computer Science. I'm passionate about doing sports, and I love coding and exploring new technologies.
 
 ## Skills
 
